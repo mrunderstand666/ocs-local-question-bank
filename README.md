@@ -1,4 +1,4 @@
-# OCS 本地题库
+# 国科大工程伦理慕课OCS本地题库
 
 一个带中文界面的 Windows 本地题库服务。双击单个 EXE 后，OCS 可以通过本机 HTTP 接口查询内置答案。
 
@@ -6,7 +6,7 @@
 
 **[下载 Windows 单文件版](https://github.com/mrunderstand666/ocs-local-question-bank/releases/latest)** · **[版本说明](CHANGELOG.md)** · **[测试记录](validation.json)**
 
-![程序实际界面](screenshot.png)
+[![程序实际界面高清截图](screenshot-hd.png)](screenshot-hd.png)
 
 ## 目录
 
@@ -314,7 +314,7 @@ OCSLocalBank.spec       可迁移的 PyInstaller 配置
 build.ps1              Windows 构建入口
 requirements-build.txt 打包依赖版本
 validation.json        已发布 EXE 的验证结果和校验值
-screenshot.png         实际界面截图
+screenshot-hd.png      原生分辨率的实际界面截图
 CHANGELOG.md           版本记录
 LICENSE                MIT 代码许可证
 ```
