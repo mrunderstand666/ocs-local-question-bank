@@ -1,0 +1,3887 @@
+{
+  "metadata": {
+    "course": "工程伦理（玉泉路）",
+    "collected_date": "2026-10-21",
+    "chapters": 39,
+    "questions": 150,
+    "queryable_questions": 150,
+    "types": {
+      "单选题": 71,
+      "判断题": 17,
+      "填空题": 26,
+      "多选题": 36
+    },
+    "chapter_audit": [
+      {
+        "chapter": "1.1.1",
+        "topic": "工程与伦理",
+        "questions": 11
+      },
+      {
+        "chapter": "1.2.1",
+        "topic": "工程伦理教育势在必行",
+        "questions": 2
+      },
+      {
+        "chapter": "1.3.1",
+        "topic": "伦理行为的四组份模型",
+        "questions": 3
+      },
+      {
+        "chapter": "2.1.1",
+        "topic": "伦理决策的特征与影响伦理决策的因素",
+        "questions": 8
+      },
+      {
+        "chapter": "2.2.1",
+        "topic": "工程中的伦理判断",
+        "questions": 5
+      },
+      {
+        "chapter": "2.3.1",
+        "topic": "创造性的中间方式",
+        "questions": 1
+      },
+      {
+        "chapter": "3.1.1",
+        "topic": "工程安全风险的定义、特征与来源",
+        "questions": 3
+      },
+      {
+        "chapter": "3.2.1",
+        "topic": "工程安全中的伦理责任",
+        "questions": 3
+      },
+      {
+        "chapter": "4.1.1",
+        "topic": "工程师的诚实与忠诚",
+        "questions": 9
+      },
+      {
+        "chapter": "5.1.1",
+        "topic": "环境工程的概念",
+        "questions": 3
+      },
+      {
+        "chapter": "5.2.1",
+        "topic": "环境工程的根源与内涵",
+        "questions": 3
+      },
+      {
+        "chapter": "5.3.1",
+        "topic": "环境工程伦理问题的具体体现（上）",
+        "questions": 3
+      },
+      {
+        "chapter": "5.4.1",
+        "topic": "环境工程伦理问题的具体体现（下）",
+        "questions": 3
+      },
+      {
+        "chapter": "5.5.1",
+        "topic": "环境从业者的伦理选择",
+        "questions": 3
+      },
+      {
+        "chapter": "6.1.1",
+        "topic": "生命伦理学的概述",
+        "questions": 5
+      },
+      {
+        "chapter": "6.2.1",
+        "topic": "生物技术应用中的伦理问题",
+        "questions": 5
+      },
+      {
+        "chapter": "6.3.1",
+        "topic": "医疗及动物实验中的伦理问题",
+        "questions": 5
+      },
+      {
+        "chapter": "7.1.1",
+        "topic": "概述",
+        "questions": 3
+      },
+      {
+        "chapter": "7.2.1",
+        "topic": "大数据时代的伦理冲突",
+        "questions": 3
+      },
+      {
+        "chapter": "7.3.1",
+        "topic": "人工智能的双刃剑",
+        "questions": 3
+      },
+      {
+        "chapter": "7.4.1",
+        "topic": "信息工程与公共决策",
+        "questions": 3
+      },
+      {
+        "chapter": "7.5.1",
+        "topic": "信息工程评价",
+        "questions": 3
+      },
+      {
+        "chapter": "8.1.1",
+        "topic": "概述与案例",
+        "questions": 3
+      },
+      {
+        "chapter": "8.2.1",
+        "topic": "机械与机械伦理",
+        "questions": 5
+      },
+      {
+        "chapter": "8.3.1",
+        "topic": "机械伦理研究进路",
+        "questions": 5
+      },
+      {
+        "chapter": "8.4.1",
+        "topic": "机械工程师的职业伦理",
+        "questions": 2
+      },
+      {
+        "chapter": "9.1.1",
+        "topic": "概述与案例",
+        "questions": 2
+      },
+      {
+        "chapter": "9.2.1",
+        "topic": "材料科学与工程概述",
+        "questions": 9
+      },
+      {
+        "chapter": "9.3.1",
+        "topic": "魁北克大桥垮塌复盘",
+        "questions": 1
+      },
+      {
+        "chapter": "9.4.1",
+        "topic": "水利中的材料工程伦理问题",
+        "questions": 2
+      },
+      {
+        "chapter": "9.5.1",
+        "topic": "国家工程中的材料工程伦理问题",
+        "questions": 1
+      },
+      {
+        "chapter": "10.1.1",
+        "topic": "化学工程基本概念及其特点",
+        "questions": 4
+      },
+      {
+        "chapter": "10.2.1",
+        "topic": "化学工程中的伦理问题",
+        "questions": 3
+      },
+      {
+        "chapter": "10.3.1",
+        "topic": "化学工程伦理中的环境伦理",
+        "questions": 3
+      },
+      {
+        "chapter": "10.4.1",
+        "topic": "化学工程伦理中的生态伦理",
+        "questions": 2
+      },
+      {
+        "chapter": "10.5.1",
+        "topic": "化学工程伦理中的生命伦理",
+        "questions": 3
+      },
+      {
+        "chapter": "11.1.1",
+        "topic": "核工程范畴及领域",
+        "questions": 5
+      },
+      {
+        "chapter": "11.2.1",
+        "topic": "放射性的生物效应、防护原则及伦理观",
+        "questions": 5
+      },
+      {
+        "chapter": "11.3.1",
+        "topic": "核工程典型案例及伦理",
+        "questions": 5
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "53463",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "伦理是处理人与人、人与社会、( )相互关系时应遵循的道理和准则。",
+      "options": [
+        {
+          "label": "A",
+          "text": "人与环境"
+        },
+        {
+          "label": "B",
+          "text": "人与宇宙"
+        },
+        {
+          "label": "C",
+          "text": "人与地球"
+        },
+        {
+          "label": "D",
+          "text": "人与自然"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "人与自然",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53464",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程伦理是以工程活动中的社会伦理关系和( )为对象的一门学科。",
+      "options": [
+        {
+          "label": "A",
+          "text": "工程主体的行为规范"
+        },
+        {
+          "label": "B",
+          "text": "工程师的职业伦理"
+        },
+        {
+          "label": "C",
+          "text": "工程共同体的伦理道德"
+        },
+        {
+          "label": "D",
+          "text": "工程师的行为规范"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "工程主体的行为规范",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53465",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "全球气候变化中的伦理学问题属( )层次的伦理问题。",
+      "options": [
+        {
+          "label": "A",
+          "text": "微观"
+        },
+        {
+          "label": "B",
+          "text": "中观"
+        },
+        {
+          "label": "C",
+          "text": "宏观"
+        },
+        {
+          "label": "D",
+          "text": "超宏观"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "宏观",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53466",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程是为了人类的生存、发展与繁荣，将科学、技术、管理等诸要素集成在一起，通过一群人的分工协作，对自然界中的物质进行改进、加工、再创造，从而为人类构建一个( )的过程。",
+      "options": [
+        {
+          "label": "A",
+          "text": "人工世界"
+        },
+        {
+          "label": "B",
+          "text": "繁荣世界"
+        },
+        {
+          "label": "C",
+          "text": "繁荣社会"
+        },
+        {
+          "label": "D",
+          "text": "安全世界"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "人工世界",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53467",
+      "number": "5",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "人类拥有对工程的选择权、( )和支配权。",
+      "options": [
+        {
+          "label": "A",
+          "text": "使用权"
+        },
+        {
+          "label": "B",
+          "text": "买卖权"
+        },
+        {
+          "label": "C",
+          "text": "所有权"
+        },
+        {
+          "label": "D",
+          "text": "开发权"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "所有权",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53468",
+      "number": "6",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下选项中哪一个不是工程的特性?",
+      "options": [
+        {
+          "label": "A",
+          "text": "科技依赖性"
+        },
+        {
+          "label": "B",
+          "text": "时空演化性"
+        },
+        {
+          "label": "C",
+          "text": "福利与风险双重性"
+        },
+        {
+          "label": "D",
+          "text": "时代进步性"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "时代进步性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53469",
+      "number": "7",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "( )是从事工程活动的现实主体",
+      "options": [
+        {
+          "label": "A",
+          "text": "工程师"
+        },
+        {
+          "label": "B",
+          "text": "设计师"
+        },
+        {
+          "label": "C",
+          "text": "工程共同体"
+        },
+        {
+          "label": "D",
+          "text": "管理者"
+        }
+      ],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "工程共同体",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53472",
+      "number": "8",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "工人因偷懒而没按操作规程行事，属于微观层面的伦理问题。",
+      "options": [],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53473",
+      "number": "9",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "狭义的工程强调众多主体参与的社会性。",
+      "options": [],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53470",
+      "number": "10",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "____并不单纯是一个是非对错的问题，而是在面对伦理问题情境时，个人从人、己、利、害以及社会规范等多方面综合考量所做的价值判断)。",
+      "options": [],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "伦理判断",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53471",
+      "number": "11",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "同一类型工程在不同地区、不同时期既体现了工程的____, 又体现其创新性。",
+      "options": [],
+      "chapter": "1.1.1",
+      "topic": "工程与伦理",
+      "chapter_id": "661758",
+      "answer": "延续性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53474",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "2015年9月25日，在纽约总部召开的联合国可持续发展峰会上，联合国193个成员国正式通过了17个可持续发展目标。可持续发展目标旨在从2015年到2030年间以综合方式彻底解决( )的发展问题，转向可持续发展道路。",
+      "options": [
+        {
+          "label": "A",
+          "text": "政治"
+        },
+        {
+          "label": "B",
+          "text": "社会"
+        },
+        {
+          "label": "C",
+          "text": "经济"
+        },
+        {
+          "label": "D",
+          "text": "环境"
+        }
+      ],
+      "chapter": "1.2.1",
+      "topic": "工程伦理教育势在必行",
+      "chapter_id": "661759",
+      "answer": "社会#经济#环境",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53475",
+      "number": "2",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "工程师因为拥有一般公众所不具备的独有知识与力量，更应当承负起相应的伦理责任。",
+      "options": [],
+      "chapter": "1.2.1",
+      "topic": "工程伦理教育势在必行",
+      "chapter_id": "661759",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53476",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "影响伦理行为的4组分模型中的4个组分别分是伦理敏感性、伦理判断、( )和伦理品质。",
+      "options": [
+        {
+          "label": "A",
+          "text": "伦理意图"
+        },
+        {
+          "label": "B",
+          "text": "伦理潜质"
+        },
+        {
+          "label": "C",
+          "text": "伦理思辨"
+        },
+        {
+          "label": "D",
+          "text": "伦理推理"
+        }
+      ],
+      "chapter": "1.3.1",
+      "topic": "伦理行为的四组份模型",
+      "chapter_id": "661760",
+      "answer": "伦理意图",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53477",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "伦理敏感性也被称作伦理意识和( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "伦理知觉"
+        },
+        {
+          "label": "B",
+          "text": "伦理感知能力"
+        },
+        {
+          "label": "C",
+          "text": "伦理共情"
+        },
+        {
+          "label": "D",
+          "text": "伦理探究"
+        }
+      ],
+      "chapter": "1.3.1",
+      "topic": "伦理行为的四组份模型",
+      "chapter_id": "661760",
+      "answer": "伦理感知能力",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53478",
+      "number": "3",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "____意味着在面临不确定性时放慢或停下脚步，对潜在的负面影响给予最大的评估。",
+      "options": [],
+      "chapter": "1.3.1",
+      "topic": "伦理行为的四组份模型",
+      "chapter_id": "661760",
+      "answer": "负责任停滞",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53479",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "影响伦理决策的因素可简分为三类，一是个体因素，二是( )，三是伦理问题本身。",
+      "options": [
+        {
+          "label": "A",
+          "text": "环境因素"
+        },
+        {
+          "label": "B",
+          "text": "群体因素"
+        },
+        {
+          "label": "C",
+          "text": "制度因素"
+        },
+        {
+          "label": "D",
+          "text": "经济因素"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "环境因素",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53480",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "伦理问题强度的维度中，\"结果大小\"意味着:()",
+      "options": [
+        {
+          "label": "A",
+          "text": "行为可能造成的伤害和益处的总和"
+        },
+        {
+          "label": "B",
+          "text": "社会对行为的认同程度"
+        },
+        {
+          "label": "C",
+          "text": "行为实际上会造成伤害或益处的可能性"
+        },
+        {
+          "label": "D",
+          "text": "行为与结果之间的时间跨度"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "行为可能造成的伤害和益处的总和",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53481",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "组织文化在伦理决策中起到重要作用，下列哪个因素不属于组织文化的影响?",
+      "options": [
+        {
+          "label": "A",
+          "text": "个人道德发展层次"
+        },
+        {
+          "label": "B",
+          "text": "规章制度"
+        },
+        {
+          "label": "C",
+          "text": "高层管理者行为示范"
+        },
+        {
+          "label": "D",
+          "text": "部门经理的影响力"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "个人道德发展层次",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53482",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "一个人从不在公共场所吸烟，可以据此判断此人道德发展处于习俗层次。",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53483",
+      "number": "5",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "“烂苹果与烂桶”理论中，烂苹果是指组织环境出了问题，能够催生出组织成员的不道德行为",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53484",
+      "number": "6",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "伦理强度的六个维度分别是结果大小、社会舆论、效应集中性以及()",
+      "options": [
+        {
+          "label": "A",
+          "text": "后果集中性"
+        },
+        {
+          "label": "B",
+          "text": "时间即刻性"
+        },
+        {
+          "label": "C",
+          "text": "亲密性"
+        },
+        {
+          "label": "D",
+          "text": "效应可能性"
+        }
+      ],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "时间即刻性#亲密性#效应可能性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53485",
+      "number": "7",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "高层管理层对于营造整个组织的伦理氛围至关重要，而____的营造则主要取决于部门经理。",
+      "options": [],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "部门亚文化",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53486",
+      "number": "8",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "____的内容和力度均会影响到伦理决策和行为。",
+      "options": [],
+      "chapter": "2.1.1",
+      "topic": "伦理决策的特征与影响伦理决策的因素",
+      "chapter_id": "661761",
+      "answer": "组织文化",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53487",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "学者胡百精提及危机管理存在两个核心问题:分别是( )和( )，二者不可偏废。",
+      "options": [
+        {
+          "label": "A",
+          "text": "事实之维还原真相，价值之维升华信任"
+        },
+        {
+          "label": "B",
+          "text": "事实之维挖掘真相，价值之维升华信任"
+        },
+        {
+          "label": "C",
+          "text": "事实之维还原真相，价值之维重建信任"
+        },
+        {
+          "label": "D",
+          "text": "事实之维挖掘真相，价值之维重建信任"
+        }
+      ],
+      "chapter": "2.2.1",
+      "topic": "工程中的伦理判断",
+      "chapter_id": "661762",
+      "answer": "事实之维还原真相，价值之维重建信任",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53488",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "在事实被还原的基础上，若想做出有效的伦理判断，还需要回答两个问题，一个是什么是相关的事实?另一个是 ( )?",
+      "options": [
+        {
+          "label": "A",
+          "text": "什么样的伦理决策是相关的?"
+        },
+        {
+          "label": "B",
+          "text": "什么样的伦理评估是相关的?"
+        },
+        {
+          "label": "C",
+          "text": "什么样的伦理调查是相关的?"
+        },
+        {
+          "label": "D",
+          "text": "什么样的伦理思考是相关的?"
+        }
+      ],
+      "chapter": "2.2.1",
+      "topic": "工程中的伦理判断",
+      "chapter_id": "661762",
+      "answer": "什么样的伦理思考是相关的?",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53489",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "( )一般是指较为抽象，具有一定普适意义的标准。",
+      "options": [
+        {
+          "label": "A",
+          "text": "伦理规范"
+        },
+        {
+          "label": "B",
+          "text": "伦理原则"
+        },
+        {
+          "label": "C",
+          "text": "伦理标准"
+        },
+        {
+          "label": "D",
+          "text": "伦理依据"
+        }
+      ],
+      "chapter": "2.2.1",
+      "topic": "工程中的伦理判断",
+      "chapter_id": "661762",
+      "answer": "伦理原则",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53490",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "看得见的公正是指（ ）。",
+      "options": [
+        {
+          "label": "A",
+          "text": "补偿公正"
+        },
+        {
+          "label": "B",
+          "text": "程序公正"
+        },
+        {
+          "label": "C",
+          "text": "分配公正"
+        },
+        {
+          "label": "D",
+          "text": "惩罚公正"
+        }
+      ],
+      "chapter": "2.2.1",
+      "topic": "工程中的伦理判断",
+      "chapter_id": "661762",
+      "answer": "程序公正",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53491",
+      "number": "5",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程师在供应商的评估与选择中，不弄虚作假，不被利益与政府压力裹挟，秉持客观、公正的原则，选择最佳供应商是（ ）公正原则的体现。",
+      "options": [
+        {
+          "label": "A",
+          "text": "宏观"
+        },
+        {
+          "label": "B",
+          "text": "微观"
+        },
+        {
+          "label": "C",
+          "text": "超宏观"
+        },
+        {
+          "label": "D",
+          "text": "中观"
+        }
+      ],
+      "chapter": "2.2.1",
+      "topic": "工程中的伦理判断",
+      "chapter_id": "661762",
+      "answer": "微观",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53492",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "当我们在职场面临伦理困境时，可以考虑使用（），使我们的解决方案能够满足多方需求。",
+      "options": [],
+      "chapter": "2.3.1",
+      "topic": "创造性的中间方式",
+      "chapter_id": "661763",
+      "answer": "创造性的中间方式",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53493",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "ISO31000(风险管理标准)将风险定义为( )对目标的影响。",
+      "options": [
+        {
+          "label": "A",
+          "text": "突发事件"
+        },
+        {
+          "label": "B",
+          "text": "不确定性"
+        },
+        {
+          "label": "C",
+          "text": "消极事件"
+        },
+        {
+          "label": "D",
+          "text": "积极事件"
+        }
+      ],
+      "chapter": "3.1.1",
+      "topic": "工程安全风险的定义、特征与来源",
+      "chapter_id": "661764",
+      "answer": "不确定性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53494",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "风险因素是指能产生或增加( )和损失程度的条件或因素，是风险事件发生的潜在原因，是造成损失的内在或间接原因",
+      "options": [
+        {
+          "label": "A",
+          "text": "损失概率"
+        },
+        {
+          "label": "B",
+          "text": "损失后果"
+        },
+        {
+          "label": "C",
+          "text": "风险程度"
+        },
+        {
+          "label": "D",
+          "text": "风险变化"
+        }
+      ],
+      "chapter": "3.1.1",
+      "topic": "工程安全风险的定义、特征与来源",
+      "chapter_id": "661764",
+      "answer": "损失概率",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53495",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "在人、机、料、法、环五个因素中，( )的因素是最重要的因素，因为其它各因素都会受到这一因素的影响。",
+      "options": [
+        {
+          "label": "A",
+          "text": "料"
+        },
+        {
+          "label": "B",
+          "text": "法"
+        },
+        {
+          "label": "C",
+          "text": "环"
+        },
+        {
+          "label": "D",
+          "text": "人"
+        }
+      ],
+      "chapter": "3.1.1",
+      "topic": "工程安全风险的定义、特征与来源",
+      "chapter_id": "661764",
+      "answer": "人",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53496",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "( )是管理者的重要安全伦理责任。",
+      "options": [
+        {
+          "label": "A",
+          "text": "培育组织的工程文化"
+        },
+        {
+          "label": "B",
+          "text": "培育组织的政治文化"
+        },
+        {
+          "label": "C",
+          "text": "培育组织的安全文化"
+        },
+        {
+          "label": "D",
+          "text": "培育组织的管理文化"
+        }
+      ],
+      "chapter": "3.2.1",
+      "topic": "工程安全中的伦理责任",
+      "chapter_id": "661765",
+      "answer": "培育组织的安全文化",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53497",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "工程师的安全伦理责任()。",
+      "options": [
+        {
+          "label": "A",
+          "text": "具有职业胜任力并不断精进专业能力"
+        },
+        {
+          "label": "B",
+          "text": "负责任地设计、建造与创新"
+        },
+        {
+          "label": "C",
+          "text": "发现与安全有关的问题时有告知的义务，必要时“吹哨”"
+        },
+        {
+          "label": "D",
+          "text": "保持虚心开放的心态，积极与公众等相关方进行沟通"
+        }
+      ],
+      "chapter": "3.2.1",
+      "topic": "工程安全中的伦理责任",
+      "chapter_id": "661765",
+      "answer": "具有职业胜任力并不断精进专业能力#负责任地设计、建造与创新#发现与安全有关的问题时有告知的义务，必要时“吹哨”#保持虚心开放的心态，积极与公众等相关方进行沟通",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53498",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "公众的安全伦理责任包括。()",
+      "options": [
+        {
+          "label": "A",
+          "text": "从被动接受到主动参与、影响工程决策"
+        },
+        {
+          "label": "B",
+          "text": "以开放的心态接受工程相关信息"
+        },
+        {
+          "label": "C",
+          "text": "提高理解工程语言的能力"
+        },
+        {
+          "label": "D",
+          "text": "建立维护自身权益的意识"
+        }
+      ],
+      "chapter": "3.2.1",
+      "topic": "工程安全中的伦理责任",
+      "chapter_id": "661765",
+      "answer": "从被动接受到主动参与、影响工程决策#以开放的心态接受工程相关信息#提高理解工程语言的能力#建立维护自身权益的意识",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53499",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下说法错误的是( ):",
+      "options": [
+        {
+          "label": "A",
+          "text": "诚实意味着信息的正确性"
+        },
+        {
+          "label": "B",
+          "text": "不诚实的行为一定是一种故意欺骗的行为，据有主观故意性"
+        },
+        {
+          "label": "C",
+          "text": "隐瞒信息是一种不诚实的行为"
+        },
+        {
+          "label": "D",
+          "text": "工程师的不诚实会破坏知情同意的决策"
+        }
+      ],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "诚实意味着信息的正确性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53500",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "工程师对社会忠诚的表现形式包括( )。",
+      "options": [
+        {
+          "label": "A",
+          "text": "关注社会的发展与需求，精益专业知识"
+        },
+        {
+          "label": "B",
+          "text": "保持开放的心态，与公众平等对话与沟通"
+        },
+        {
+          "label": "C",
+          "text": "告知公众可能危及他们安全、健康与福祉的信息"
+        },
+        {
+          "label": "D",
+          "text": "以上都不对"
+        }
+      ],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "关注社会的发展与需求，精益专业知识#保持开放的心态，与公众平等对话与沟通#告知公众可能危及他们安全、健康与福祉的信息",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53501",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "工程师对雇主(组织)与客户忠诚的表现形式()",
+      "options": [
+        {
+          "label": "A",
+          "text": "恪尽职守，按时保质地完成本职工作"
+        },
+        {
+          "label": "B",
+          "text": "为雇主(组织)与客户的利益与发展着做前瞻性思考与决策部署"
+        },
+        {
+          "label": "C",
+          "text": "保守雇主(组织)与客户的商业机密与技术机密"
+        },
+        {
+          "label": "D",
+          "text": "避免利益冲突，不能避免时告知利益冲突"
+        }
+      ],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "恪尽职守，按时保质地完成本职工作#为雇主(组织)与客户的利益与发展着做前瞻性思考与决策部署#保守雇主(组织)与客户的商业机密与技术机密#避免利益冲突，不能避免时告知利益冲突",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53502",
+      "number": "4",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "工程师在本职工作场所不诚实的表现主要有()。",
+      "options": [
+        {
+          "label": "A",
+          "text": "弄虚作假"
+        },
+        {
+          "label": "B",
+          "text": "迟报信息"
+        },
+        {
+          "label": "C",
+          "text": "谎报信息"
+        },
+        {
+          "label": "D",
+          "text": "瞒报信息"
+        }
+      ],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "弄虚作假#迟报信息#谎报信息#瞒报信息",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53505",
+      "number": "5",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "我国的工程事故调查属于溯因学习型。",
+      "options": [],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53506",
+      "number": "6",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "由工程师与组织价值观的一致性决定的忠诚是发自工程师内心的、自愿的忠诚，是基于精神需求层面的忠诚。",
+      "options": [],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53507",
+      "number": "7",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "服从上司的命令就是对组织的忠诚。",
+      "options": [],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53503",
+      "number": "8",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "____是为了自身的利益而选择服从上司不正当的，甚至是违法的职业行为要求。",
+      "options": [],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "假忠",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53504",
+      "number": "9",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "不论哪种类型的_____，作为决策者的工程师都应该主动提示它们的存在，从而让雇主、客户或者公众能够在知情同意的情况下做出决策。",
+      "options": [],
+      "chapter": "4.1.1",
+      "topic": "工程师的诚实与忠诚",
+      "chapter_id": "661766",
+      "answer": "利益冲突",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53510",
+      "number": "1",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "环境保护与人类社会活动的其他方面，如经济、资源、生态、健康等，关系不大。",
+      "options": [],
+      "chapter": "5.1.1",
+      "topic": "环境工程的概念",
+      "chapter_id": "661767",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53508",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "环境工程主要依托什么进行环境污染的控制?",
+      "options": [
+        {
+          "label": "A",
+          "text": "法律法规"
+        },
+        {
+          "label": "B",
+          "text": "环境污染控制理论、技术、措施和政策"
+        },
+        {
+          "label": "C",
+          "text": "民众意识"
+        },
+        {
+          "label": "D",
+          "text": "自然资源"
+        }
+      ],
+      "chapter": "5.1.1",
+      "topic": "环境工程的概念",
+      "chapter_id": "661767",
+      "answer": "环境污染控制理论、技术、措施和政策",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53509",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下哪些属于环境保护的必要性?",
+      "options": [
+        {
+          "label": "A",
+          "text": "人口规模逐渐增大"
+        },
+        {
+          "label": "B",
+          "text": "人类改造自然的技术手段不断加强"
+        },
+        {
+          "label": "C",
+          "text": "资源与环境的威胁越发严峻"
+        },
+        {
+          "label": "D",
+          "text": "环境保护最大的受益方是人类自己"
+        }
+      ],
+      "chapter": "5.1.1",
+      "topic": "环境工程的概念",
+      "chapter_id": "661767",
+      "answer": "人口规模逐渐增大#人类改造自然的技术手段不断加强#资源与环境的威胁越发严峻#环境保护最大的受益方是人类自己",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53512",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "环境工程伦理问题产生于____与经济发展的对立与统一。",
+      "options": [],
+      "chapter": "5.2.1",
+      "topic": "环境工程的根源与内涵",
+      "chapter_id": "661768",
+      "answer": "环境保护",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53513",
+      "number": "2",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "环境工程伦理只关注人类与自然环境的关系，不涉及人与人之间的关系。",
+      "options": [],
+      "chapter": "5.2.1",
+      "topic": "环境工程的根源与内涵",
+      "chapter_id": "661768",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53511",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "环境工程发展的驱动力包括",
+      "options": [
+        {
+          "label": "A",
+          "text": "环境驱动"
+        },
+        {
+          "label": "B",
+          "text": "政策驱动"
+        },
+        {
+          "label": "C",
+          "text": "市场驱动"
+        },
+        {
+          "label": "D",
+          "text": "技术驱动"
+        }
+      ],
+      "chapter": "5.2.1",
+      "topic": "环境工程的根源与内涵",
+      "chapter_id": "661768",
+      "answer": "环境驱动#政策驱动#市场驱动#技术驱动",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53514",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "环境工程伦理问题具体体现在哪些方面?",
+      "options": [
+        {
+          "label": "A",
+          "text": "环保造假"
+        },
+        {
+          "label": "B",
+          "text": "环保炒作"
+        },
+        {
+          "label": "C",
+          "text": "环境工程中的违规操作"
+        },
+        {
+          "label": "D",
+          "text": "环保技术落后"
+        }
+      ],
+      "chapter": "5.3.1",
+      "topic": "环境工程伦理问题的具体体现（上）",
+      "chapter_id": "661769",
+      "answer": "环保造假#环保炒作#环境工程中的违规操作",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53515",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "为了防范环保作弊，可以采取哪些措施?",
+      "options": [
+        {
+          "label": "A",
+          "text": "加强监督，使环保督察检查常态化、制度化"
+        },
+        {
+          "label": "B",
+          "text": "纵容环保违法违规企业"
+        },
+        {
+          "label": "C",
+          "text": "发挥群众监督的作用"
+        },
+        {
+          "label": "D",
+          "text": "加大违法必究、造假问责的惩戒力度"
+        }
+      ],
+      "chapter": "5.3.1",
+      "topic": "环境工程伦理问题的具体体现（上）",
+      "chapter_id": "661769",
+      "answer": "加强监督，使环保督察检查常态化、制度化#发挥群众监督的作用#加大违法必究、造假问责的惩戒力度",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53516",
+      "number": "3",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "人们利用湿地进行生态旅游的开发，只要能实现经济效益，就可以不顾环境破坏。",
+      "options": [],
+      "chapter": "5.3.1",
+      "topic": "环境工程伦理问题的具体体现（上）",
+      "chapter_id": "661769",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53519",
+      "number": "1",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "环境伦理问题只存在于环境工程项目中。",
+      "options": [],
+      "chapter": "5.4.1",
+      "topic": "环境工程伦理问题的具体体现（下）",
+      "chapter_id": "661770",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53517",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下哪个行为不属于环境工程项目中的不规范操作?",
+      "options": [
+        {
+          "label": "A",
+          "text": "伪造民意调查结果"
+        },
+        {
+          "label": "B",
+          "text": "遵循可研、环评、设计、采购、施工等流程"
+        },
+        {
+          "label": "C",
+          "text": "先施工后设计"
+        },
+        {
+          "label": "D",
+          "text": "偷工减料"
+        }
+      ],
+      "chapter": "5.4.1",
+      "topic": "环境工程伦理问题的具体体现（下）",
+      "chapter_id": "661770",
+      "answer": "遵循可研、环评、设计、采购、施工等流程",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53518",
+      "number": "3",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "《中华人民共和国环境影响评价法》中提到，环境影响评价是指对规划和建设项目实施后可能造成的____进行分析、预测和评估。",
+      "options": [],
+      "chapter": "5.4.1",
+      "topic": "环境工程伦理问题的具体体现（下）",
+      "chapter_id": "661770",
+      "answer": "环境影响",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53521",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "环境工程的社会责任是在保护____的同时促进或不阻碍____的健康发展，且不损害其他社会利益。",
+      "options": [],
+      "chapter": "5.5.1",
+      "topic": "环境从业者的伦理选择",
+      "chapter_id": "661771",
+      "answer": "环境#经济",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53522",
+      "number": "2",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "环境工程师在面临各方压力的干扰下，仍然提供诚实、客观、真实的专业服务，需要具备过硬的职业素质和求真务实的科学态度。",
+      "options": [],
+      "chapter": "5.5.1",
+      "topic": "环境从业者的伦理选择",
+      "chapter_id": "661771",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53520",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "环境工程师应具备的职业素质包括哪些?",
+      "options": [
+        {
+          "label": "A",
+          "text": "自然科学、社会科学和环境工程的专业知识"
+        },
+        {
+          "label": "B",
+          "text": "学习、分析、实践、表达和协调的业务能力"
+        },
+        {
+          "label": "C",
+          "text": "事业精神、创新精神和集体主义精神"
+        },
+        {
+          "label": "D",
+          "text": "符合环境工程伦理准则的道德修养"
+        }
+      ],
+      "chapter": "5.5.1",
+      "topic": "环境从业者的伦理选择",
+      "chapter_id": "661771",
+      "answer": "自然科学、社会科学和环境工程的专业知识#学习、分析、实践、表达和协调的业务能力#事业精神、创新精神和集体主义精神#符合环境工程伦理准则的道德修养",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53523",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列有关生物工程伦理的说法，不正确的是()。",
+      "options": [
+        {
+          "label": "A",
+          "text": "生物技术的发展必须接受生物伦理的规范和制约"
+        },
+        {
+          "label": "B",
+          "text": "实施生命科学研究必须遵循：尊重、不伤害、有利和公正的原则"
+        },
+        {
+          "label": "C",
+          "text": "重视生物伦理问题，会限制生物工程技术的发展"
+        },
+        {
+          "label": "D",
+          "text": "应该遵循生物工程伦理的要求，合理地使用生物工程技术，使它的发展对人类最有益"
+        }
+      ],
+      "chapter": "6.1.1",
+      "topic": "生命伦理学的概述",
+      "chapter_id": "661772",
+      "answer": "重视生物伦理问题，会限制生物工程技术的发展",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53524",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下不属于生物及医药伦理学诞生的背景的是：（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "在日本广岛和长崎的两颗原子弹的爆炸"
+        },
+        {
+          "label": "B",
+          "text": "《寂静的春天》一书的发表"
+        },
+        {
+          "label": "C",
+          "text": "在德国纽伦堡对纳粹战犯的审判"
+        },
+        {
+          "label": "D",
+          "text": "现代先进生物医学技术，可以干预人的生老病死自然进程，人的生老病死甚至有可能为人工安排所替代"
+        }
+      ],
+      "chapter": "6.1.1",
+      "topic": "生命伦理学的概述",
+      "chapter_id": "661772",
+      "answer": "现代先进生物医学技术，可以干预人的生老病死自然进程，人的生老病死甚至有可能为人工安排所替代",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53525",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "如果科研人员通过诱导、胁迫、不当影响等手段让患者参与某项生物医药研究，这会违背哪项伦理原则（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "公正原则"
+        },
+        {
+          "label": "B",
+          "text": "自愿原则"
+        },
+        {
+          "label": "C",
+          "text": "有利原则"
+        },
+        {
+          "label": "D",
+          "text": "尊重原则"
+        }
+      ],
+      "chapter": "6.1.1",
+      "topic": "生命伦理学的概述",
+      "chapter_id": "661772",
+      "answer": "尊重原则",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53526",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "关于公正原则的描述，正确的是（）：",
+      "options": [
+        {
+          "label": "A",
+          "text": "公正原则应该考虑性别、年龄、种族、贫富等的差别"
+        },
+        {
+          "label": "B",
+          "text": "公正原则往往强调对弱者和弱势群体的保护"
+        },
+        {
+          "label": "C",
+          "text": "公正原则强调绝对公正"
+        },
+        {
+          "label": "D",
+          "text": "AA制是指实质公正"
+        }
+      ],
+      "chapter": "6.1.1",
+      "topic": "生命伦理学的概述",
+      "chapter_id": "661772",
+      "answer": "公正原则往往强调对弱者和弱势群体的保护",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53527",
+      "number": "5",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "尊重原则包括很多方面，但不包括：（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "保密"
+        },
+        {
+          "label": "B",
+          "text": "使用歧视性语言"
+        },
+        {
+          "label": "C",
+          "text": "知情同意"
+        },
+        {
+          "label": "D",
+          "text": "自主决定"
+        }
+      ],
+      "chapter": "6.1.1",
+      "topic": "生命伦理学的概述",
+      "chapter_id": "661772",
+      "answer": "使用歧视性语言",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53443",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列选项不利于解决转基因作物安全性的举措是（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "制定《农业转基因生物安全管理条例》"
+        },
+        {
+          "label": "B",
+          "text": "限制转基因作物的种植面积"
+        },
+        {
+          "label": "C",
+          "text": "加强转基因作物的安全性的检测"
+        },
+        {
+          "label": "D",
+          "text": "开发更安全的转基因技术"
+        }
+      ],
+      "chapter": "6.2.1",
+      "topic": "生物技术应用中的伦理问题",
+      "chapter_id": "661753",
+      "answer": "限制转基因作物的种植面积",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53444",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "为了消除人们对转基因食品安全的顾虑，哪项措施是不当的（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "提供营养学分析、毒理学分析和致敏性分析三方面的安全性评估报告。"
+        },
+        {
+          "label": "B",
+          "text": "建立更严谨的食品安全评估体系"
+        },
+        {
+          "label": "C",
+          "text": "在销售过程中不标注转基因成分"
+        },
+        {
+          "label": "D",
+          "text": "通过科普报告宣传"
+        }
+      ],
+      "chapter": "6.2.1",
+      "topic": "生物技术应用中的伦理问题",
+      "chapter_id": "661753",
+      "answer": "在销售过程中不标注转基因成分",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53445",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列关于全球转基因食品强制性标签情况的选项中，错误的是：（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "实施转基因食品强制标签是为了维护消费者的知情权"
+        },
+        {
+          "label": "B",
+          "text": "标签是在食品或饲料产品的包装上贴加标识以说明该产品是否来自转基因生物或是否含有转基因成分"
+        },
+        {
+          "label": "C",
+          "text": "实施转基因强制标签是为了公平"
+        },
+        {
+          "label": "D",
+          "text": "中国对转基因食品进行标签制度"
+        }
+      ],
+      "chapter": "6.2.1",
+      "topic": "生物技术应用中的伦理问题",
+      "chapter_id": "661753",
+      "answer": "实施转基因强制标签是为了公平",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53446",
+      "number": "4",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "下列哪些对转基因植物的认识是正确的（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "转基因植物经济和生态效应显著"
+        },
+        {
+          "label": "B",
+          "text": "为了国家的粮食安全，要加强转基因技术的研发"
+        },
+        {
+          "label": "C",
+          "text": "转基因植物的种植要在确保安全的条件下慎重推广"
+        },
+        {
+          "label": "D",
+          "text": "个人或企业种植转基因作物需要得到有关部门的审批，不得私下种植"
+        }
+      ],
+      "chapter": "6.2.1",
+      "topic": "生物技术应用中的伦理问题",
+      "chapter_id": "661753",
+      "answer": "转基因植物经济和生态效应显著#为了国家的粮食安全，要加强转基因技术的研发#转基因植物的种植要在确保安全的条件下慎重推广#个人或企业种植转基因作物需要得到有关部门的审批，不得私下种植",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53447",
+      "number": "5",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "我国对转基因植物的生物安全做了哪些规定（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "《农业转基因生物安全评价管理办法》"
+        },
+        {
+          "label": "B",
+          "text": "《农业转基因生物进口安全管理办法》"
+        },
+        {
+          "label": "C",
+          "text": "《农业转基因生物标识管理办法》"
+        },
+        {
+          "label": "D",
+          "text": "《农业转基因生物加工审批办法》"
+        }
+      ],
+      "chapter": "6.2.1",
+      "topic": "生物技术应用中的伦理问题",
+      "chapter_id": "661753",
+      "answer": "《农业转基因生物安全评价管理办法》#《农业转基因生物进口安全管理办法》#《农业转基因生物标识管理办法》#《农业转基因生物加工审批办法》",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53528",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程实践对待动物错误的做法是（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "给动物提供干净卫生的居住环境"
+        },
+        {
+          "label": "B",
+          "text": "保障动物的饮食"
+        },
+        {
+          "label": "C",
+          "text": "保障动物的作息"
+        },
+        {
+          "label": "D",
+          "text": "通过殴打、火烧、电击、断食等方法训练动物"
+        }
+      ],
+      "chapter": "6.3.1",
+      "topic": "医疗及动物实验中的伦理问题",
+      "chapter_id": "661773",
+      "answer": "通过殴打、火烧、电击、断食等方法训练动物",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53529",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列哪项措施不属于科研活动中使用实验动物的 “3R” 原则？（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "减少实验动物的使用"
+        },
+        {
+          "label": "B",
+          "text": "使用细胞等其他方法替代实验动物"
+        },
+        {
+          "label": "C",
+          "text": "优化实验方案"
+        },
+        {
+          "label": "D",
+          "text": "减少实验动物的处理时间"
+        }
+      ],
+      "chapter": "6.3.1",
+      "topic": "医疗及动物实验中的伦理问题",
+      "chapter_id": "661773",
+      "answer": "减少实验动物的处理时间",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53530",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列关于胚胎的说法错误的是（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "对于医院废弃的胚胎可以随意使用，无需伦理委员会的批准"
+        },
+        {
+          "label": "B",
+          "text": "经过伦理委员会批准后，可以使用废弃的胚胎分离培养人胚胎干细胞"
+        },
+        {
+          "label": "C",
+          "text": "14 天以内的胚胎不能算 “ 人 ” 是因为此时大脑和神经都未得到发育"
+        },
+        {
+          "label": "D",
+          "text": "14 天以内的胚胎可以用于特点目的的科学研究，包括基因编辑，但不得延长。"
+        }
+      ],
+      "chapter": "6.3.1",
+      "topic": "医疗及动物实验中的伦理问题",
+      "chapter_id": "661773",
+      "answer": "对于医院废弃的胚胎可以随意使用，无需伦理委员会的批准",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53531",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下列关于克隆的说法正确的是（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "既然人们已经可以克隆猴，克隆人应该是安全的"
+        },
+        {
+          "label": "B",
+          "text": "克隆人具有优生学意义，可以复制各个领域的优秀人 才"
+        },
+        {
+          "label": "C",
+          "text": "克隆人违背了伦理规则，挑战了人的尊严"
+        },
+        {
+          "label": "D",
+          "text": "克隆人具有医学上的价值，不需要伦理方面的限制"
+        }
+      ],
+      "chapter": "6.3.1",
+      "topic": "医疗及动物实验中的伦理问题",
+      "chapter_id": "661773",
+      "answer": "克隆人违背了伦理规则，挑战了人的尊严",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53532",
+      "number": "5",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "干细胞临床实验中应符合哪些伦理要求（）",
+      "options": [
+        {
+          "label": "A",
+          "text": "知情同意"
+        },
+        {
+          "label": "B",
+          "text": "公平地选择受试者"
+        },
+        {
+          "label": "C",
+          "text": "选择安全有效的干细胞"
+        },
+        {
+          "label": "D",
+          "text": "研究人员对受试者的权益、安全和健康的考虑高于科学和社会利益"
+        }
+      ],
+      "chapter": "6.3.1",
+      "topic": "医疗及动物实验中的伦理问题",
+      "chapter_id": "661773",
+      "answer": "知情同意#公平地选择受试者#选择安全有效的干细胞#研究人员对受试者的权益、安全和健康的考虑高于科学和社会利益",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53533",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "重要资料和重要机密资料应定期_____，并做好检查和资料可用性检查，以便及早发现问题及早修复。",
+      "options": [],
+      "chapter": "7.1.1",
+      "topic": "概述",
+      "chapter_id": "661774",
+      "answer": "备份",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53534",
+      "number": "2",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "信息安全三大目标:____、____和____。",
+      "options": [],
+      "chapter": "7.1.1",
+      "topic": "概述",
+      "chapter_id": "661774",
+      "answer": "机密性#完整性#可用性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53535",
+      "number": "3",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "当发生信息安全事件时, 发现者须第一时间报告其____, 并同时通报当地相关信息安全机构, 由当地进行第一时间的信息安全事件处理。",
+      "options": [],
+      "chapter": "7.1.1",
+      "topic": "概述",
+      "chapter_id": "661774",
+      "answer": "直接主管",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53538",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "重要机密资料应该对其进行____，并注重密码的保管工作，公司所有员工在未经许可的情况下不得通过各种非法手段阅读和复制机密资料。",
+      "options": [],
+      "chapter": "7.2.1",
+      "topic": "大数据时代的伦理冲突",
+      "chapter_id": "661775",
+      "answer": "加密",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53536",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "大数据广泛应用,也带来了数据安全、数字身份、( )、数据权利、大数据公共治理等超出已有的信息伦理范畴的新型伦理问题。",
+      "options": [
+        {
+          "label": "A",
+          "text": "隐私边界"
+        },
+        {
+          "label": "B",
+          "text": "虚拟主体"
+        },
+        {
+          "label": "C",
+          "text": "环境安全"
+        },
+        {
+          "label": "D",
+          "text": "知识产权"
+        }
+      ],
+      "chapter": "7.2.1",
+      "topic": "大数据时代的伦理冲突",
+      "chapter_id": "661775",
+      "answer": "隐私边界",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53537",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下哪些方面，是大数据创新科技人员应当具备的伦理责任。",
+      "options": [
+        {
+          "label": "A",
+          "text": "尊重他人"
+        },
+        {
+          "label": "B",
+          "text": "以企业利益为先"
+        },
+        {
+          "label": "C",
+          "text": "为增进社会福祉尽力"
+        },
+        {
+          "label": "D",
+          "text": "规避法律和行业规范"
+        }
+      ],
+      "chapter": "7.2.1",
+      "topic": "大数据时代的伦理冲突",
+      "chapter_id": "661775",
+      "answer": "尊重他人#为增进社会福祉尽力",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53539",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "1950年,科学家( )在出版的《人有人的用处》一书中,率先提出信息与计算机伦理,追问信息技术对诸如生命、健康、快乐、能力、知识、自由、安全、发展机会等人类核心价值的意义,并倡议用“伟大的公正原则”作为信息伦理的基石。",
+      "options": [
+        {
+          "label": "A",
+          "text": "冯·诺依曼(John von Neumann)"
+        },
+        {
+          "label": "B",
+          "text": "维纳(Norbert Wiener)"
+        },
+        {
+          "label": "C",
+          "text": "图灵(Alan Mathison Turing)"
+        },
+        {
+          "label": "D",
+          "text": "阿西莫夫(lsaac Asimov)"
+        }
+      ],
+      "chapter": "7.3.1",
+      "topic": "人工智能的双刃剑",
+      "chapter_id": "661776",
+      "answer": "维纳(Norbert Wiener)",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53540",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "随着物联网在工业中的广泛应用,“数据”已经成为企业重要资产。2019年10月,党的十九届四中全会发布的关于国家治理能力和治理体系现代化的纲领性文件强调,要“健全( )、( )、土地知识、技术、管理、数据等生产要素按贡献参与分配的机制”。",
+      "options": [
+        {
+          "label": "A",
+          "text": "劳动"
+        },
+        {
+          "label": "B",
+          "text": "资本"
+        },
+        {
+          "label": "C",
+          "text": "空间"
+        },
+        {
+          "label": "D",
+          "text": "水域"
+        }
+      ],
+      "chapter": "7.3.1",
+      "topic": "人工智能的双刃剑",
+      "chapter_id": "661776",
+      "answer": "劳动#资本",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53541",
+      "number": "3",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "个人信息和个人敏感信息是一致的,不需要作出区分。()",
+      "options": [],
+      "chapter": "7.3.1",
+      "topic": "人工智能的双刃剑",
+      "chapter_id": "661776",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53542",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "2016年12月1日起实施的《中华人民共和国网络安全法》规定以下若干主体依法使用网络的权利受到国家保护。哪一个选项并未受到法律保护?( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "公民"
+        },
+        {
+          "label": "B",
+          "text": "法人"
+        },
+        {
+          "label": "C",
+          "text": "其他组织"
+        },
+        {
+          "label": "D",
+          "text": "实现自动驾驶的算法代码"
+        }
+      ],
+      "chapter": "7.4.1",
+      "topic": "信息工程与公共决策",
+      "chapter_id": "661777",
+      "answer": "实现自动驾驶的算法代码",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53543",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "在2020年全国人大颁布的中华人民共和国历史上第一部《民法典》中,专门设立了“人格权”编。《民法典》规定,隐私是自然人的( )和( )的私密空间、私密活动、私密信息。",
+      "options": [
+        {
+          "label": "A",
+          "text": "私人生活"
+        },
+        {
+          "label": "B",
+          "text": "私人生活安宁"
+        },
+        {
+          "label": "C",
+          "text": "不愿为他人知晓"
+        },
+        {
+          "label": "D",
+          "text": "不便为他人知晓"
+        }
+      ],
+      "chapter": "7.4.1",
+      "topic": "信息工程与公共决策",
+      "chapter_id": "661777",
+      "answer": "私人生活安宁#不愿为他人知晓",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53544",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "在2020年全国人大颁布的中华人民共和国历史上第一部《民法典》中,专门设立了“人格权”编,并在其中对隐私权作出规定。《民法典》强调,处理个人信息的,应当遵循合法、( )、必要原则,不得( )处理。(一)征得该自然人或者其监护人同意,但是法律、行政法规另有规定的除外;(二)公开处理信息的规则;(三)明示处理信息的目的、方式和范围;(四)不违反法律、行政法规的规定和双方的约定。",
+      "options": [
+        {
+          "label": "A",
+          "text": "公正"
+        },
+        {
+          "label": "B",
+          "text": "正当"
+        },
+        {
+          "label": "C",
+          "text": "过度"
+        },
+        {
+          "label": "D",
+          "text": "有效"
+        }
+      ],
+      "chapter": "7.4.1",
+      "topic": "信息工程与公共决策",
+      "chapter_id": "661777",
+      "answer": "正当#过度",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53546",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "单位员工有____保护单位信息安全,不管是否与自己的工作内容相关,都必须随时警惕防止他人破坏单位信息安全。",
+      "options": [],
+      "chapter": "7.5.1",
+      "topic": "信息工程评价",
+      "chapter_id": "661778",
+      "answer": "义务",
+      "answer_source": "user_specified"
+    },
+    {
+      "id": "53545",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "人的身份用来界定一个人是谁或者是什么，具有可识别性、独特性、唯一性。与人的身份不一样，数字身份具有多样性与( )，具有容易被盗用、容易被追溯等特点。",
+      "options": [
+        {
+          "label": "A",
+          "text": "虚假性"
+        },
+        {
+          "label": "B",
+          "text": "一致性"
+        },
+        {
+          "label": "C",
+          "text": "不变性"
+        },
+        {
+          "label": "D",
+          "text": "可变性"
+        }
+      ],
+      "chapter": "7.5.1",
+      "topic": "信息工程评价",
+      "chapter_id": "661778",
+      "answer": "可变性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53547",
+      "number": "3",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "信息技术从业人员将所发明出来的信息技术开发成新产品、新服务后，往往会遭遇“制度真空”或“法律真空”地带，因此，加强信息技术从业人员的伦理意识培养、制定并执行职业规范非常重要。( )",
+      "options": [],
+      "chapter": "7.5.1",
+      "topic": "信息工程评价",
+      "chapter_id": "661778",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53448",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "针对波音737MAX两起空难事件，美国众议院运输和基础设施委员会成立的调查委员给出的调查结论，这两起事故不是由于( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "波音公司的工程师错误的技术假设"
+        },
+        {
+          "label": "B",
+          "text": "波音公司管理缺乏透明度"
+        },
+        {
+          "label": "C",
+          "text": "美国联邦航空局监管严重不足"
+        },
+        {
+          "label": "D",
+          "text": "单一的机械故障、技术失误或者管理不当引起的"
+        }
+      ],
+      "chapter": "8.1.1",
+      "topic": "概述与案例",
+      "chapter_id": "661754",
+      "answer": "单一的机械故障、技术失误或者管理不当引起的",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53449",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "2019年3月10日，埃塞俄比亚航空公司波音737MAX-8客机ET302航班发生空难后，率先发出737MAX-8飞机停飞令的国家是( )。",
+      "options": [
+        {
+          "label": "A",
+          "text": "美国"
+        },
+        {
+          "label": "B",
+          "text": "印度尼西亚"
+        },
+        {
+          "label": "C",
+          "text": "中国"
+        },
+        {
+          "label": "D",
+          "text": "埃塞俄比"
+        }
+      ],
+      "chapter": "8.1.1",
+      "topic": "概述与案例",
+      "chapter_id": "661754",
+      "answer": "中国",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53450",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "根据国家市场监督管理总局、国家标准化管理委员会批准发布的《汽车驾驶自动化分级》国家推荐标准，自动驾驶分为( )个等级。",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "chapter": "8.1.1",
+      "topic": "概述与案例",
+      "chapter_id": "661754",
+      "answer": "6",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53451",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下面哪一项不属于机械的共同特征?( )。",
+      "options": [
+        {
+          "label": "A",
+          "text": "都是人类制造的实体组合"
+        },
+        {
+          "label": "B",
+          "text": "组成件之间有确定的相对运动和力的传递"
+        },
+        {
+          "label": "C",
+          "text": "进行机械能的转换或机械能的利用"
+        },
+        {
+          "label": "D",
+          "text": "能够自主控制"
+        }
+      ],
+      "chapter": "8.2.1",
+      "topic": "机械与机械伦理",
+      "chapter_id": "661755",
+      "answer": "能够自主控制",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53452",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下面哪一种机械不属于第二次工业革命的产物?( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "汽车"
+        },
+        {
+          "label": "B",
+          "text": "电力机车"
+        },
+        {
+          "label": "C",
+          "text": "人造卫星"
+        },
+        {
+          "label": "D",
+          "text": "飞机"
+        }
+      ],
+      "chapter": "8.2.1",
+      "topic": "机械与机械伦理",
+      "chapter_id": "661755",
+      "answer": "人造卫星",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53453",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "第四次工业革命，是从21世纪初至今，继蒸汽技术革命、电力技术革命、( )的又一次科技革命。",
+      "options": [
+        {
+          "label": "A",
+          "text": "产业技术革命"
+        },
+        {
+          "label": "B",
+          "text": "信息技术革命"
+        },
+        {
+          "label": "C",
+          "text": "能源技术革命"
+        },
+        {
+          "label": "D",
+          "text": "生物技术革命"
+        }
+      ],
+      "chapter": "8.2.1",
+      "topic": "机械与机械伦理",
+      "chapter_id": "661755",
+      "answer": "信息技术革命",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53454",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "机械工程活动中可能出现的伦理问题，包括技术伦理问题、利益伦理问题、安全伦理问题、责任伦理问题、环境伦理问题等，在处理这些伦理问题时，应遵循人道主义原则，社会公正原则，( )。",
+      "options": [
+        {
+          "label": "A",
+          "text": "互利互惠原则"
+        },
+        {
+          "label": "B",
+          "text": "安全可靠原则"
+        },
+        {
+          "label": "C",
+          "text": "利益最大原则"
+        },
+        {
+          "label": "D",
+          "text": "人与自然和谐发展原则"
+        }
+      ],
+      "chapter": "8.2.1",
+      "topic": "机械与机械伦理",
+      "chapter_id": "661755",
+      "answer": "人与自然和谐发展原则",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53455",
+      "number": "5",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "机械工程活动中涉及诸多伦理问题，包括安全伦理、( )等问题。",
+      "options": [
+        {
+          "label": "A",
+          "text": "技术伦理"
+        },
+        {
+          "label": "B",
+          "text": "利益伦理"
+        },
+        {
+          "label": "C",
+          "text": "责任伦理"
+        },
+        {
+          "label": "D",
+          "text": "环境伦理"
+        }
+      ],
+      "chapter": "8.2.1",
+      "topic": "机械与机械伦理",
+      "chapter_id": "661755",
+      "answer": "技术伦理#利益伦理#责任伦理#环境伦理",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53456",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下哪些条款属于科幻小说作家艾萨克·阿西莫夫设计的“机器人三定律”的内容 ( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "机器人不得伤害人类，或因不作为而让人类受到伤害。"
+        },
+        {
+          "label": "B",
+          "text": "机器人必须服从人类的命令，除非这些命令与第一定律相冲突。"
+        },
+        {
+          "label": "C",
+          "text": "机器人必须保护自己的存在，只要这种保护不违反第一或第二定律。"
+        },
+        {
+          "label": "D",
+          "text": "机器人不会伤害人类，或者由于不作为而让人类受到伤害。"
+        }
+      ],
+      "chapter": "8.3.1",
+      "topic": "机械伦理研究进路",
+      "chapter_id": "661756",
+      "answer": "机器人不得伤害人类，或因不作为而让人类受到伤害。#机器人必须服从人类的命令，除非这些命令与第一定律相冲突。#机器人必须保护自己的存在，只要这种保护不违反第一或第二定律。",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53457",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "机器人系统包括( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "机械系统"
+        },
+        {
+          "label": "B",
+          "text": "驱动系统"
+        },
+        {
+          "label": "C",
+          "text": "控制系统"
+        },
+        {
+          "label": "D",
+          "text": "感知系统"
+        }
+      ],
+      "chapter": "8.3.1",
+      "topic": "机械伦理研究进路",
+      "chapter_id": "661756",
+      "answer": "机械系统#驱动系统#控制系统#感知系统",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53458",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "2022年8月1日正式施行《深圳经济特区智能网联汽车管理条例》，关于交通违法和事故处理的规定是( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "有驾驶人的智能网联汽车发生交通违法或者有责任的事故，由驾驶人承担违法和赔偿责任。"
+        },
+        {
+          "label": "B",
+          "text": "完全自动驾驶的智能网联汽车在无驾驶人期间发生交通违法或者有责任的事故，原则上由车辆所有人、管理人承担违法和赔偿责任，但对违法行为人的处罚不适用驾驶人记分的有关规定。"
+        },
+        {
+          "label": "C",
+          "text": "交通事故中，因智能网联汽车存在缺陷造成损害的，车辆驾驶人或者所有人、管理人依照规定赔偿后，可以依法向生产者、销售者请求赔偿。"
+        },
+        {
+          "label": "D",
+          "text": "无论哪种事故，保险公司将承担责任。"
+        }
+      ],
+      "chapter": "8.3.1",
+      "topic": "机械伦理研究进路",
+      "chapter_id": "661756",
+      "answer": "有驾驶人的智能网联汽车发生交通违法或者有责任的事故，由驾驶人承担违法和赔偿责任。#完全自动驾驶的智能网联汽车在无驾驶人期间发生交通违法或者有责任的事故，原则上由车辆所有人、管理人承担违法和赔偿责任，但对违法行为人的处罚不适用驾驶人记分的有关规定。#交通事故中，因智能网联汽车存在缺陷造成损害的，车辆驾驶人或者所有人、管理人依照规定赔偿后，可以依法向生产者、销售者请求赔偿。",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53459",
+      "number": "4",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下哪些武器属于非常规武器( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "核武器"
+        },
+        {
+          "label": "B",
+          "text": "化学武器"
+        },
+        {
+          "label": "C",
+          "text": "生化武器"
+        },
+        {
+          "label": "D",
+          "text": "高超音速导弹"
+        }
+      ],
+      "chapter": "8.3.1",
+      "topic": "机械伦理研究进路",
+      "chapter_id": "661756",
+      "answer": "核武器#化学武器#生化武器",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53460",
+      "number": "5",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "机械人伦理研究的理论进路，包括人工智能进路( ).",
+      "options": [
+        {
+          "label": "A",
+          "text": "心理学进路"
+        },
+        {
+          "label": "B",
+          "text": "社会学进路"
+        },
+        {
+          "label": "C",
+          "text": "哲学进路"
+        },
+        {
+          "label": "D",
+          "text": "经济学进路"
+        }
+      ],
+      "chapter": "8.3.1",
+      "topic": "机械伦理研究进路",
+      "chapter_id": "661756",
+      "answer": "心理学进路#社会学进路#哲学进路",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53461",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "机械工程师在履行其职责的过程中，应将公众的( )放在首位。",
+      "options": [
+        {
+          "label": "A",
+          "text": "安全"
+        },
+        {
+          "label": "B",
+          "text": "健康"
+        },
+        {
+          "label": "C",
+          "text": "福祉"
+        },
+        {
+          "label": "D",
+          "text": "发展"
+        }
+      ],
+      "chapter": "8.4.1",
+      "topic": "机械工程师的职业伦理",
+      "chapter_id": "661757",
+      "answer": "安全#健康#福祉",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53462",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "机械工程活动中的主体—工程师包括研发工程师、设计工程师、生产工程师等，应具有的基本素质包括( )三个方面",
+      "options": [
+        {
+          "label": "A",
+          "text": "知识"
+        },
+        {
+          "label": "B",
+          "text": "能力"
+        },
+        {
+          "label": "C",
+          "text": "品德"
+        },
+        {
+          "label": "D",
+          "text": "健康"
+        }
+      ],
+      "chapter": "8.4.1",
+      "topic": "机械工程师的职业伦理",
+      "chapter_id": "661757",
+      "answer": "知识#能力#品德",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53548",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "通常医院里血液细胞检测仪的原理采用的主要是电敏感区法()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.1.1",
+      "topic": "概述与案例",
+      "chapter_id": "661779",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53549",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "泰坦尼克号首航失败的材料失效主要原因是材料的低温脆性断裂()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.1.1",
+      "topic": "概述与案例",
+      "chapter_id": "661779",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53550",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下哪一项不是材料科学的基本的学科基础?()",
+      "options": [
+        {
+          "label": "A",
+          "text": "环境学"
+        },
+        {
+          "label": "B",
+          "text": "材料学"
+        },
+        {
+          "label": "C",
+          "text": "化学"
+        },
+        {
+          "label": "D",
+          "text": "物理学"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "环境学",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53551",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程仅限于建筑业，不包括工业制造业、农业(第一产业)以及医疗、金融等第三产业的说法是()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53552",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程伦理是应用于工程学的道德原则系统,是工程技艺的应用伦理。",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53553",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下面哪项不是工程风险的主要特性()",
+      "options": [
+        {
+          "label": "A",
+          "text": "不可预测性"
+        },
+        {
+          "label": "B",
+          "text": "客观实在性"
+        },
+        {
+          "label": "C",
+          "text": "主观构建性"
+        },
+        {
+          "label": "D",
+          "text": "传导性"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "不可预测性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53554",
+      "number": "5",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程师的安全伦理责任有:具有职业胜任力并不断精进专业能力;负责任地设计、建造与创新;发现与安全有关的问题时有告知的义务，必要时吹哨;保持虚心开放的心态，积极与公众等相关方进行沟通。",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53555",
+      "number": "6",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "在对待工程风险问题上，人们不能奢求绝对的安全，只能把风险控制在人们可接受的范围之内()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53556",
+      "number": "7",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程的生态价值的体现:节能、环保、绿色、低碳、降耗()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53557",
+      "number": "8",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程的价值具有多元性，包括科学价值、文化价值、社会价值、文化价值和生态价值()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53558",
+      "number": "9",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "材料工程活动集成了多种要素，选出下列不包含的一项()",
+      "options": [
+        {
+          "label": "A",
+          "text": "技术要素"
+        },
+        {
+          "label": "B",
+          "text": "经济要素"
+        },
+        {
+          "label": "C",
+          "text": "社会要素"
+        },
+        {
+          "label": "D",
+          "text": "自然要素"
+        },
+        {
+          "label": "E",
+          "text": "伦理要素"
+        },
+        {
+          "label": "F",
+          "text": "环境要素"
+        }
+      ],
+      "chapter": "9.2.1",
+      "topic": "材料科学与工程概述",
+      "chapter_id": "661780",
+      "answer": "环境要素",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53559",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "屈曲强度指的是:细长件在受到压缩力时，因细长件弯曲形变造成的结构失效，屈曲强度则是承受这一压缩力的能力，这一说法是否正确()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.3.1",
+      "topic": "魁北克大桥垮塌复盘",
+      "chapter_id": "661781",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53560",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "伦理章程对材料工程师的要求:始终以促进公众健康、安全和福祉为己任，直面良心，直面自己的职业操守()",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.4.1",
+      "topic": "水利中的材料工程伦理问题",
+      "chapter_id": "661782",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53561",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "“邻避效应”属于哪种工程伦理问题()",
+      "options": [
+        {
+          "label": "A",
+          "text": "技术伦理"
+        },
+        {
+          "label": "B",
+          "text": "社会伦理"
+        },
+        {
+          "label": "C",
+          "text": "环境伦理"
+        },
+        {
+          "label": "D",
+          "text": "安全伦理"
+        }
+      ],
+      "chapter": "9.4.1",
+      "topic": "水利中的材料工程伦理问题",
+      "chapter_id": "661782",
+      "answer": "社会伦理",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53562",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "工程师为考虑企业利益，对企业的要求应照单全收。",
+      "options": [
+        {
+          "label": "A",
+          "text": "正确"
+        },
+        {
+          "label": "B",
+          "text": "错误"
+        }
+      ],
+      "chapter": "9.5.1",
+      "topic": "国家工程中的材料工程伦理问题",
+      "chapter_id": "661783",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53565",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "物理过程系指物质不经____而发生的组成、性质、____、能量变化过程。",
+      "options": [],
+      "chapter": "10.1.1",
+      "topic": "化学工程基本概念及其特点",
+      "chapter_id": "661784",
+      "answer": "化学反应#状态",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53563",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "德国科学家Haber和bosch发明了利用金属( )做催化剂由氢气和氮气合成氨",
+      "options": [
+        {
+          "label": "A",
+          "text": "铁"
+        },
+        {
+          "label": "B",
+          "text": "钴"
+        },
+        {
+          "label": "C",
+          "text": "镍"
+        },
+        {
+          "label": "D",
+          "text": "铜"
+        }
+      ],
+      "chapter": "10.1.1",
+      "topic": "化学工程基本概念及其特点",
+      "chapter_id": "661784",
+      "answer": "铁",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53564",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "化学工程与其他工程的共性是:",
+      "options": [
+        {
+          "label": "A",
+          "text": "以科学为依托"
+        },
+        {
+          "label": "B",
+          "text": "是功利的"
+        },
+        {
+          "label": "C",
+          "text": "具有独特性"
+        },
+        {
+          "label": "D",
+          "text": "具有普遍性"
+        }
+      ],
+      "chapter": "10.1.1",
+      "topic": "化学工程基本概念及其特点",
+      "chapter_id": "661784",
+      "answer": "以科学为依托#是功利的#具有独特性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53566",
+      "number": "4",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "化学工程的影响容易逆转。",
+      "options": [],
+      "chapter": "10.1.1",
+      "topic": "化学工程基本概念及其特点",
+      "chapter_id": "661784",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53569",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "化学工程伦理的核心是要满足“____”。",
+      "options": [],
+      "chapter": "10.2.1",
+      "topic": "化学工程中的伦理问题",
+      "chapter_id": "661785",
+      "answer": "人的全面发展",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53567",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "DDT，又叫滴滴涕，它的主要作用是( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "作为食品"
+        },
+        {
+          "label": "B",
+          "text": "药品"
+        },
+        {
+          "label": "C",
+          "text": "杀虫剂"
+        },
+        {
+          "label": "D",
+          "text": "营养品"
+        }
+      ],
+      "chapter": "10.2.1",
+      "topic": "化学工程中的伦理问题",
+      "chapter_id": "661785",
+      "answer": "杀虫剂",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53568",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "化学工程伦理是权衡工程与 、 、 之间的伦理关系:",
+      "options": [
+        {
+          "label": "A",
+          "text": "人"
+        },
+        {
+          "label": "B",
+          "text": "动物"
+        },
+        {
+          "label": "C",
+          "text": "环境"
+        },
+        {
+          "label": "D",
+          "text": "生态"
+        }
+      ],
+      "chapter": "10.2.1",
+      "topic": "化学工程中的伦理问题",
+      "chapter_id": "661785",
+      "answer": "人#环境#生态",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53570",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "下面哪些不可避免的成为化学工程伦理的有机组成部分:",
+      "options": [
+        {
+          "label": "A",
+          "text": "环境伦理"
+        },
+        {
+          "label": "B",
+          "text": "资源伦理"
+        },
+        {
+          "label": "C",
+          "text": "生态伦理"
+        },
+        {
+          "label": "D",
+          "text": "生命伦理"
+        }
+      ],
+      "chapter": "10.3.1",
+      "topic": "化学工程伦理中的环境伦理",
+      "chapter_id": "661786",
+      "answer": "环境伦理#生态伦理#生命伦理",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53571",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "高炉冶炼用的原料主要有:",
+      "options": [
+        {
+          "label": "A",
+          "text": "木料"
+        },
+        {
+          "label": "B",
+          "text": "铁矿石"
+        },
+        {
+          "label": "C",
+          "text": "燃料(焦炭)"
+        },
+        {
+          "label": "D",
+          "text": "熔剂"
+        }
+      ],
+      "chapter": "10.3.1",
+      "topic": "化学工程伦理中的环境伦理",
+      "chapter_id": "661786",
+      "answer": "铁矿石#燃料(焦炭)#熔剂",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53572",
+      "number": "3",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "化学工程同其他工程一样,通过科学的设计、严密的论证和决策、规范的施工就能完全规避工程对环境的破坏。",
+      "options": [],
+      "chapter": "10.3.1",
+      "topic": "化学工程伦理中的环境伦理",
+      "chapter_id": "661786",
+      "answer": "错误",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53574",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "PX是化学品____的英文缩写 。",
+      "options": [],
+      "chapter": "10.4.1",
+      "topic": "化学工程伦理中的生态伦理",
+      "chapter_id": "661787",
+      "answer": "对二甲苯",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53573",
+      "number": "2",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "下面那个方法不是PX的生产方法( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "煤炭法"
+        },
+        {
+          "label": "B",
+          "text": "天然气法"
+        },
+        {
+          "label": "C",
+          "text": "石油法"
+        },
+        {
+          "label": "D",
+          "text": "化学法"
+        }
+      ],
+      "chapter": "10.4.1",
+      "topic": "化学工程伦理中的生态伦理",
+      "chapter_id": "661787",
+      "answer": "天然气法",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53576",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "吉林石化苯双苯厂爆炸事故，是由于粗____进入超温的进料预热器后，出现突沸并产生剧烈振动，造成预热器及进料管线法兰松动，造成密封不严，空气吸入系统内，引发初馏塔爆炸。",
+      "options": [],
+      "chapter": "10.5.1",
+      "topic": "化学工程伦理中的生命伦理",
+      "chapter_id": "661788",
+      "answer": "硝基苯",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53577",
+      "number": "2",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "分配公正是指根据实际情况的不同, ____和____的合理分配。",
+      "options": [],
+      "chapter": "10.5.1",
+      "topic": "化学工程伦理中的生命伦理",
+      "chapter_id": "661788",
+      "answer": "责任#义务",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53575",
+      "number": "3",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "生命伦理中的哪些基本原则应用到了化学工程伦理当中:",
+      "options": [
+        {
+          "label": "A",
+          "text": "环境友好原则"
+        },
+        {
+          "label": "B",
+          "text": "不伤害/有利原则"
+        },
+        {
+          "label": "C",
+          "text": "尊重原则"
+        },
+        {
+          "label": "D",
+          "text": "公正原则"
+        }
+      ],
+      "chapter": "10.5.1",
+      "topic": "化学工程伦理中的生命伦理",
+      "chapter_id": "661788",
+      "answer": "不伤害/有利原则#尊重原则#公正原则",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53578",
+      "number": "1",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "在人工辐射源中，对人类照射剂量贡献最大的是( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "医疗照射"
+        },
+        {
+          "label": "B",
+          "text": "核燃料循环"
+        },
+        {
+          "label": "C",
+          "text": "核技术应用"
+        },
+        {
+          "label": "D",
+          "text": "其它人工辐射源"
+        }
+      ],
+      "chapter": "11.1.1",
+      "topic": "核工程范畴及领域",
+      "chapter_id": "661789",
+      "answer": "医疗照射",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53580",
+      "number": "2",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "放射性的表征单位为____，即单位时间内放射性核素发生核衰变的数目，常用单位为贝克勒尔或居里。",
+      "options": [],
+      "chapter": "11.1.1",
+      "topic": "核工程范畴及领域",
+      "chapter_id": "661789",
+      "answer": "活度",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53581",
+      "number": "3",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "1986年____发现X射线。",
+      "options": [],
+      "chapter": "11.1.1",
+      "topic": "核工程范畴及领域",
+      "chapter_id": "661789",
+      "answer": "伦琴",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53579",
+      "number": "4",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下属于核技术在生活中的应用的是",
+      "options": [
+        {
+          "label": "A",
+          "text": "离子式烟感器"
+        },
+        {
+          "label": "B",
+          "text": "241 Am避雷针"
+        },
+        {
+          "label": "C",
+          "text": "放射性同位素年龄测定"
+        },
+        {
+          "label": "D",
+          "text": "食品辐照加工"
+        }
+      ],
+      "chapter": "11.1.1",
+      "topic": "核工程范畴及领域",
+      "chapter_id": "661789",
+      "answer": "离子式烟感器#241 Am避雷针#放射性同位素年龄测定#食品辐照加工",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53582",
+      "number": "5",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "核电是清洁能源。",
+      "options": [],
+      "chapter": "11.1.1",
+      "topic": "核工程范畴及领域",
+      "chapter_id": "661789",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53585",
+      "number": "1",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "辐射防护三要素包括:____、____、____。",
+      "options": [],
+      "chapter": "11.2.1",
+      "topic": "放射性的生物效应、防护原则及伦理观",
+      "chapter_id": "661790",
+      "answer": "距离#时间#屏蔽",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53586",
+      "number": "2",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "射线与生物作用产生的效应中，按发生的可能性分，可分为____效应和____效应。",
+      "options": [],
+      "chapter": "11.2.1",
+      "topic": "放射性的生物效应、防护原则及伦理观",
+      "chapter_id": "661790",
+      "answer": "确定性#随机性",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53583",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "α、β、γ射线，穿透能力强弱能力正确的是( )",
+      "options": [
+        {
+          "label": "A",
+          "text": "α>β>γ"
+        },
+        {
+          "label": "B",
+          "text": "γ>β>α"
+        },
+        {
+          "label": "C",
+          "text": "γ>α>β"
+        },
+        {
+          "label": "D",
+          "text": "α>γ>β"
+        }
+      ],
+      "chapter": "11.2.1",
+      "topic": "放射性的生物效应、防护原则及伦理观",
+      "chapter_id": "661790",
+      "answer": "γ>β>α",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53587",
+      "number": "4",
+      "type": "judgement",
+      "type_label": "判断题",
+      "question": "对于生物体来讲，内照射的危害大于外照射危害。",
+      "options": [],
+      "chapter": "11.2.1",
+      "topic": "放射性的生物效应、防护原则及伦理观",
+      "chapter_id": "661790",
+      "answer": "正确",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53584",
+      "number": "5",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "辐射防护原则包括:",
+      "options": [
+        {
+          "label": "A",
+          "text": "实践正当化原则"
+        },
+        {
+          "label": "B",
+          "text": "防护最优化原则"
+        },
+        {
+          "label": "C",
+          "text": "个人剂量限值原则"
+        },
+        {
+          "label": "D",
+          "text": "保护当代和后代原则"
+        }
+      ],
+      "chapter": "11.2.1",
+      "topic": "放射性的生物效应、防护原则及伦理观",
+      "chapter_id": "661790",
+      "answer": "实践正当化原则#防护最优化原则#个人剂量限值原则#保护当代和后代原则",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53590",
+      "number": "1",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "以下核事故中，七级核事故包括:",
+      "options": [
+        {
+          "label": "A",
+          "text": "切尔诺贝利核事故"
+        },
+        {
+          "label": "B",
+          "text": "三里岛核事故"
+        },
+        {
+          "label": "C",
+          "text": "福岛核事故"
+        },
+        {
+          "label": "D",
+          "text": "东海村核事故"
+        }
+      ],
+      "chapter": "11.3.1",
+      "topic": "核工程典型案例及伦理",
+      "chapter_id": "661791",
+      "answer": "切尔诺贝利核事故#福岛核事故",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53591",
+      "number": "2",
+      "type": "multiple",
+      "type_label": "多选题",
+      "question": "在核工程实践中，基于道德伦理的伦理观包括哪些:",
+      "options": [
+        {
+          "label": "A",
+          "text": "目的论伦理观"
+        },
+        {
+          "label": "B",
+          "text": "功利主义伦理观"
+        },
+        {
+          "label": "C",
+          "text": "义务论伦理学"
+        },
+        {
+          "label": "D",
+          "text": "美德伦理"
+        }
+      ],
+      "chapter": "11.3.1",
+      "topic": "核工程典型案例及伦理",
+      "chapter_id": "661791",
+      "answer": "目的论伦理观#功利主义伦理观#义务论伦理学#美德伦理",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53588",
+      "number": "3",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "以下关于核技术在医学中的应用，说法不正确的是:",
+      "options": [
+        {
+          "label": "A",
+          "text": "医学影像检查，检查越多越好，检查越贵越好"
+        },
+        {
+          "label": "B",
+          "text": "一次CT检查剂量一般大于一次PET检查剂量"
+        },
+        {
+          "label": "C",
+          "text": "基于放射性药物核素诊断，可发现组织和器官发生结构性病变之前的功能变化"
+        },
+        {
+          "label": "D",
+          "text": "在医生角度，需要谨慎考虑放射性药物的用药量并控制药量精度"
+        }
+      ],
+      "chapter": "11.3.1",
+      "topic": "核工程典型案例及伦理",
+      "chapter_id": "661791",
+      "answer": "医学影像检查，检查越多越好，检查越贵越好",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53589",
+      "number": "4",
+      "type": "single",
+      "type_label": "单选题",
+      "question": "核事故按危害的程度可划分为几级核事故:",
+      "options": [
+        {
+          "label": "A",
+          "text": "三"
+        },
+        {
+          "label": "B",
+          "text": "四"
+        },
+        {
+          "label": "C",
+          "text": "五"
+        },
+        {
+          "label": "D",
+          "text": "七"
+        }
+      ],
+      "chapter": "11.3.1",
+      "topic": "核工程典型案例及伦理",
+      "chapter_id": "661791",
+      "answer": "七",
+      "answer_source": "graded_answer"
+    },
+    {
+      "id": "53592",
+      "number": "5",
+      "type": "completion",
+      "type_label": "填空题",
+      "question": "居民或当地单位因担心建设项目(如垃圾场、核电厂、殡仪馆等邻避设施)对身体健康、环境质量和资产价值等带来诸多负面影响，从而激发人们的嫌恶情结，叫做____效应。",
+      "options": [],
+      "chapter": "11.3.1",
+      "topic": "核工程典型案例及伦理",
+      "chapter_id": "661791",
+      "answer": "邻避",
+      "answer_source": "graded_answer"
+    }
+  ]
+}
