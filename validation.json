@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "checks": {
+    "original_bank_preserved": true,
+    "exe_http_all_answers_and_unknown": true,
+    "ocs_config_and_head": true,
+    "copy_button_clipboard_json": true,
+    "check_button_real_http_answer": true,
+    "stop_restart_clean_exit_no_tk_errors": true,
+    "exe_started_with_system32_only_path": true,
+    "native_ui_start_stop_copy_check_help_and_exit_verified": true
+  },
+  "questions_verified": 150,
+  "exe": {
+    "name": "OCS本地题库.exe",
+    "bytes": 12878854,
+    "sha256": "237e5e942676ca8c70d4b0220ed13f51efc4e4b7ff9173abb1e4bd08aaf502f1"
+  }
+}
