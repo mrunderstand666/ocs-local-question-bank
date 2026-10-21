@@ -2,9 +2,9 @@
 
 一个带中文界面的 Windows 本地题库服务。双击单个 EXE 后，OCS 可以通过本机 HTTP 接口查询内置答案。
 
-当前版本 **v1.1.0**，内置工程伦理（玉泉路）39 个章节测验、150 道题。程序、题库、Python 与 Tk 运行组件都已打包；使用发布版无需安装 Python，也无需在 EXE 旁边放置 JSON 文件。
+当前版本 **v1.1.0**，内置工程伦理（玉泉路）39 个章节测验、150 道题。适用于 Windows x64，下载后双击即可使用，无需安装 Python。
 
-**[下载 Windows 单文件版](https://github.com/mrunderstand666/ocs-local-question-bank/releases/latest)** · **[版本说明](CHANGELOG.md)** · **[测试记录](validation.json)**
+**[下载 Windows 单文件版](https://github.com/mrunderstand666/ocs-local-question-bank/releases/latest)** · **[版本说明](CHANGELOG.md)**
 
 [![程序实际界面高清截图](screenshot-hd.png)](screenshot-hd.png)
 
@@ -16,20 +16,17 @@
 - [题库内容与匹配规则](#题库内容与匹配规则)
 - [HTTP 接口](#http-接口)
 - [从源码运行](#从源码运行)
-- [构建单文件 EXE](#构建单文件-exe)
-- [更换题库](#更换题库)
-- [测试与验证范围](#测试与验证范围)
 - [常见问题](#常见问题)
-- [项目结构与许可](#项目结构与许可)
+- [许可与反馈](#许可与反馈)
 
 ## 快速开始
 
 1. 在 [Releases](https://github.com/mrunderstand666/ocs-local-question-bank/releases) 下载 `OCS-Local-Question-Bank-v1.1.0-windows-x64.exe`。
-2. 双击运行，稍等内置组件解压及服务启动。界面显示绿色的“服务运行中”后即可使用。
+2. 双击运行，等待服务启动。界面显示绿色的“服务运行中”后即可使用。
 3. 已配置过 `http://127.0.0.1:18651/search` 的 OCS 可继续使用；第一次使用时点击“复制 OCS 配置”，按下文添加。
 4. 使用 OCS 时保持程序运行，可以最小化。点击“停止服务”或确认退出会停止查询接口。
 
-发布文件只需保存这一个 EXE。程序没有安装步骤，不添加开机启动，也不要求管理员权限。单文件启动时，PyInstaller 会把运行组件临时解压到系统临时目录；这不要求用户额外分发这些文件。
+软件为免安装单文件版，使用时保持 EXE 运行。首次启动可能需要等待片刻。
 
 ### 文件校验
 
@@ -48,13 +45,13 @@ Get-FileHash .\OCS-Local-Question-Bank-v1.1.0-windows-x64.exe -Algorithm SHA256
 | 自动启动 | 打开窗口后加载内置题库并监听本机 18651 端口 |
 | 启动／停止服务 | 在同一窗口中控制服务，停止后可以重新启动 |
 | 复制 OCS 配置 | 将完整 JSON 配置复制到剪贴板 |
-| 检测连接 | 请求健康检查和一道真实题目，核对返回答案“义务” |
+| 检测连接 | 检查本地服务状态和题目查询是否可用 |
 | 查询统计 | 显示本次运行的请求数、命中数、最近查询时间与结果 |
 | 配置与帮助 | 展示配置内容和接入步骤 |
-| 退出提醒 | 提醒退出会中断查询，确认后释放服务端口 |
+| 退出提醒 | 提醒退出会停止查询，确认后释放服务端口 |
 | 端口占用提示 | 已有服务或端口冲突时给出提示，不结束其他进程 |
 
-查询统计在内存中保存，重启程序后归零。程序不会把查询过程写成历史答题记录。“检测连接”也会产生一次查询，所以计数不等同于 OCS 的实际答题数量。
+查询统计在内存中保存，重启程序后归零。“检测连接”会计入查询次数。
 
 ## 接入 OCS
 
@@ -89,18 +86,14 @@ Get-FileHash .\OCS-Local-Question-Bank-v1.1.0-windows-x64.exe -Algorithm SHA256
 
 OCS 必须与本 EXE 运行在同一台电脑上；另一台电脑访问自己的 `127.0.0.1` 不会连接到本机。服务只监听回环地址，没有对局域网或互联网开放。
 
-### 如何核验实际自动搜题
+### 使用题库
 
-本程序的“检测连接”验证本地服务，不能替代 OCS 在课程页面中的自动识题测试。验证完整流程时：
+完成配置后，在课程习题页使用 OCS 的搜题功能。本程序提供本地答案查询；网页题目识别、选项匹配与填写由 OCS 处理。
 
-1. 选择允许练习且能进入答题状态的页面，确认 OCS 已识别题目。
-2. 在测试期间避免缓存或其他题库干扰；按需临时关闭其查询，并记录原设置。
-3. 检查 OCS 完成后的行为，避免自动提交或自动跳转影响现有作答。
-4. 从 OCS 的作业／测验自动搜题入口启动流程，不使用手动输入题干代替。
-5. 在结果明细中检查来源为“工程伦理（玉泉路）个人作答题库”、题目与答案正确、搜题进度已完成，同时观察本程序查询计数变化。
-6. 测试结束后恢复临时调整的 OCS 设置。
-
-仅看到“连接成功”、历史答案或手动搜索结果，不能证明自动识题流程已通过。
+- 使用期间保持本程序显示“服务运行中”。
+- 在 OCS 查询结果中查看题库来源及返回答案。
+- 可在程序窗口查看查询次数、命中次数和最近查询结果。
+- 保存或提交答案前，请核对题目与答案内容，并按需设置 OCS 的提交行为。
 
 ## 题库内容与匹配规则
 
@@ -112,7 +105,7 @@ OCS 必须与本 EXE 运行在同一台电脑上；另一台电脑访问自己�
 | 填空题 | 26 | `completion` |
 | 合计 | **150** | |
 
-数据文件为 `seed.json`，包含最终整理后的问题、选项、答案和章节信息，不包含历史作答列表、课程登录链接或浏览器凭据。它是一份个人整理题库，不是课程平台发布的官方标准答案；来源标记用于记录整理过程，不能独立证明每道题的正确性。
+题库数据保存在 `seed.json`，包含题目、选项、答案和章节信息。题库为个人整理资料，供学习参考，使用时请结合课程内容核对。
 
 匹配策略：
 
@@ -182,7 +175,7 @@ with build_opener(ProxyHandler({})).open(
 
 ## 从源码运行
 
-主要运行代码只使用 Python 标准库，包括 Tkinter、HTTP 服务和 JSON 处理。开发环境需要 Python 及可用的 Tcl/Tk。v1.1.0 在 Windows 11 x64、Python 3.13.9 / Tk 8.6 环境验证。
+源码运行需要 Python 3 及可用的 Tkinter / Tcl/Tk，运行依赖均来自 Python 标准库。
 
 ```powershell
 git clone https://github.com/mrunderstand666/ocs-local-question-bank.git
@@ -199,80 +192,6 @@ python bank_server.py --bank .\seed.json --port 18651
 
 GUI 默认使用随源码或 EXE 内置的 `seed.json`。`--bank`、`--port` 和 `--check` 属于命令行服务 `bank_server.py`，不是 GUI EXE 的参数。命令行版本在 Windows 可通过另一个终端运行 `python bank_server.py --stop --port 18651` 停止；GUI 服务请使用窗口按钮停止。
 
-## 构建单文件 EXE
-
-在 Windows x64 中构建 Windows 发布版。使用带 Tkinter 的 Python：
-
-```powershell
-.\build.ps1 -Python python
-```
-
-构建脚本将创建项目专用的 `.venv-build`，安装 `requirements-build.txt` 中固定版本的 PyInstaller 和 hooks，使用相对项目路径构建。输出：
-
-```text
-dist/OCS本地题库.exe
-```
-
-也可以手动执行：
-
-```powershell
-python -m venv .venv-build
-.\.venv-build\Scripts\python.exe -m pip install -r requirements-build.txt
-.\.venv-build\Scripts\python.exe -m PyInstaller --noconfirm OCSLocalBank.spec
-```
-
-配置采用 `onefile` + `windowed`，双击后显示图形窗口。EXE 内嵌 `seed.json`。构建结果与 Python 版本、依赖和打包环境有关，重新构建不保证得到与 Release 完全相同的二进制哈希。
-
-## 更换题库
-
-编辑 `seed.json` 后重新构建即可更新内置数据。每条题目至少应包含：
-
-```json
-{
-  "id": "example-001",
-  "question": "这里填写完整题干",
-  "type": "single",
-  "options": [
-    {"label": "A", "text": "选项一"},
-    {"label": "B", "text": "选项二"}
-  ],
-  "answer": "选项一",
-  "chapter": "示例章节"
-}
-```
-
-外层结构为 `{"metadata": {}, "questions": [...]}`。`id` 必须非空且唯一；选项为空的题目仍使用 `"options": []`。可先运行 `python bank_server.py --bank .\seed.json --check` 检查格式。
-
-当前 GUI 的课程名称、配置名称和连接诊断样例针对内置工程伦理题库。换成其他课程时，需要同步修改 `gui.py` 中课程标题和 `check_connection()` 的测试题，以及 `bank_server.py` 的配置名称。诊断目前使用 ID `53546`；删除该题而不调整诊断会导致“检测连接”失败，其他有效题目查询不受该诊断逻辑影响。
-
-## 测试与验证范围
-
-运行源码测试：
-
-```powershell
-python -m unittest -v test_bank.py
-```
-
-测试会在随机回环端口启动临时服务，不依赖正在运行的 18651 服务，也不改动课程页面。覆盖全部 150 条题目的真实 HTTP 查询、无匹配响应、选项过滤、歧义保护、配置生成、HEAD 和 Host 检查。
-
-v1.1.0 发布前已完成：
-
-| 检查项 | 结果 |
-| --- | --- |
-| 打包 EXE 实际启动、健康接口 | 通过 |
-| EXE 返回 150 条题目的答案与整理题库逐一一致 | 150 / 150 |
-| 题库数据与本地确认版本一致 | 通过 |
-| 无匹配题目返回空结果 | 通过 |
-| OCS 配置 JSON、HEAD 请求兼容 | 通过 |
-| 剪贴板配置内容校验 | 通过 |
-| 连接按钮实际查询并核对“义务” | 通过 |
-| GUI 停止、重启、退出释放端口 | 通过 |
-| 帮助窗口和退出提醒实机检查 | 通过 |
-| 仅系统目录 PATH 下启动 EXE | 通过 |
-| 新版 GUI EXE 的浏览器实际自动搜题全流程 | **未完成验证** |
-
-最后一项测试在完成前停止，因此本项目不把接口检查或旧服务的测试结果当作新版 EXE 自动搜题全流程通过的证据。150 / 150 指返回内容与整理数据一致，不表示对每道题做了独立学术正确性审查。
-
 ## 常见问题
 
 ### OCS 提示连接失败
@@ -281,7 +200,7 @@ v1.1.0 发布前已完成：
 
 ### 为什么显示“已有题库服务运行”或端口占用？
 
-同一端口只能由一个服务监听。已打开旧版或另一个窗口时，先正常关闭原服务，再在新窗口重试。程序不会强制停止其他进程。GUI 固定使用 18651；开发者需要其他端口时可使用命令行服务并同步调整 OCS 配置。
+同一端口只能由一个服务监听。请关闭重复运行的题库窗口后重试。程序不会强制停止其他进程。GUI 固定使用 18651；开发者需要其他端口时可使用命令行服务并同步调整 OCS 配置。
 
 ### 为什么有题目但没有返回答案？
 
@@ -301,23 +220,9 @@ v1.1.0 发布前已完成：
 
 ### 是否支持 macOS / Linux？
 
-发布附件只提供 Windows x64 EXE。Python 服务核心主要使用标准库，但其他系统的 GUI、打包和使用体验未做验证。
+当前提供 Windows x64 发行版。
 
-## 项目结构与许可
-
-```text
-gui.py                  中文 GUI、服务生命周期、配置复制与连接诊断
-bank_server.py          题目规范化、匹配逻辑、HTTP 接口、命令行入口
-seed.json               内置题库
-test_bank.py            独立回环 HTTP 测试
-OCSLocalBank.spec       可迁移的 PyInstaller 配置
-build.ps1              Windows 构建入口
-requirements-build.txt 打包依赖版本
-validation.json        已发布 EXE 的验证结果和校验值
-screenshot-hd.png      原生分辨率的实际界面截图
-CHANGELOG.md           版本记录
-LICENSE                MIT 代码许可证
-```
+## 许可与反馈
 
 本仓库原创程序代码按 [MIT License](LICENSE) 开源。该许可不授予第三方课程材料、题目文本或 OCS 自身的知识产权；数据使用及再分发应遵守其原有权利和使用条件。本项目是独立的本地服务，与 OCS 官方及课程平台无隶属关系。
 
