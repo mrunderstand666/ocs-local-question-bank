@@ -4,7 +4,7 @@
 
 当前版本 **v1.1.0**，内置工程伦理（玉泉路）39 个章节测验、150 道题。适用于 Windows x64，下载后双击即可使用，无需安装 Python。
 
-**[下载 Windows 单文件版](https://github.com/mrunderstand666/ocs-local-question-bank/releases/latest)** · **[版本说明](CHANGELOG.md)**
+**[下载 Windows 单文件版](https://github.com/mrunderstand666/ucas-engineering-ethics-ocs/releases/latest)** · **[版本说明](CHANGELOG.md)**
 
 [![程序实际界面高清截图](screenshot-hd.png)](screenshot-hd.png)
 
@@ -21,7 +21,7 @@
 
 ## 快速开始
 
-1. 在 [Releases](https://github.com/mrunderstand666/ocs-local-question-bank/releases) 下载 `OCS-Local-Question-Bank-v1.1.0-windows-x64.exe`。
+1. 在 [Releases](https://github.com/mrunderstand666/ucas-engineering-ethics-ocs/releases) 下载 `OCS-Local-Question-Bank-v1.1.0-windows-x64.exe`。
 2. 双击运行，等待服务启动。界面显示绿色的“服务运行中”后即可使用。
 3. 已配置过 `http://127.0.0.1:18651/search` 的 OCS 可继续使用；第一次使用时点击“复制 OCS 配置”，按下文添加。
 4. 使用 OCS 时保持程序运行，可以最小化。点击“停止服务”或确认退出会停止查询接口。
@@ -178,8 +178,8 @@ with build_opener(ProxyHandler({})).open(
 源码运行需要 Python 3 及可用的 Tkinter / Tcl/Tk，运行依赖均来自 Python 标准库。
 
 ```powershell
-git clone https://github.com/mrunderstand666/ocs-local-question-bank.git
-cd ocs-local-question-bank
+git clone https://github.com/mrunderstand666/ucas-engineering-ethics-ocs.git
+cd ucas-engineering-ethics-ocs
 python gui.py
 ```
 
